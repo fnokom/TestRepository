@@ -15,7 +15,41 @@ public class GitToTest {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+    public class Test()    
+    {
+        private int testing;
+        private double test2;
+
+    /**
+     * @return the testing
+     */
+    public int getTesting() {
+        return testing;
+    }
+
+    /**
+     * @param testing the testing to set
+     */
+    public void setTesting(int testing) {
+        this.testing = testing;
+    }
+
+    /**
+     * @return the test2
+     */
+    public double getTest2() {
+        return test2;
+    }
+
+    /**
+     * @param test2 the test2 to set
+     */
+    public void setTest2(double test2) {
+        this.test2 = test2;
+    }
+    }
+    
+}
     }
     
 }
