@@ -19,6 +19,7 @@ public class GitToTest {
     {
         private int testing;
         private double test2;
+        private String test3;
 
     /**
      * @return the testing
