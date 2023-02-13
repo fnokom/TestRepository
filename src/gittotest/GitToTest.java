@@ -20,6 +20,7 @@ public class GitToTest {
         private int testing;
         private double test2;
         private String test3;
+        private int test4;
 
     /**
      * @return the testing
