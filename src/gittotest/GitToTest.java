@@ -6,7 +6,8 @@ package gittotest;
 
 /**
  *
- * @author fnoko
+ * @author fnokom
+ * this is a test
  */
 public class GitToTest {
 
